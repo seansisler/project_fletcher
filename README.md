@@ -1,2 +1,3 @@
-# project_fletcher
-natural language processing project for Metis data science bootcamp
+# The Trump Years
+
+When the time came for the Natural Language Processing and Unsupervised Learning portion of my bootcamp experience, I was in deserate need some comedy. Being an avid reader (and once in bootcamp I filled the void becoming a very active Luminary consumer - basically listening to podcasts while I would be doing any kind of work), this was without a doubt the project I was looking forward to the most. I had a couple ideas but chose without hesitation when deciding I wanted to make a project that was going to be relevant and entertaining. It was an election year and it seemed to me that everyone was either traumatized and isolated or had some sense of reaffirmation when they would hear the daily news and what was going on in our government and the election race. Being stuck inside because of quarantine and further confined to my desk to make bootcamp and data science my priority, I thought that using the Trump press briefings and releases for an analysis via NLP would be interesting and provide a summary to reference for the, then, upcoming election.
